@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QBankApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd616b18b099144cc6bab52ac503496c3342ea84")]
 [assembly: System.Reflection.AssemblyProductAttribute("QBankApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QBankApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
